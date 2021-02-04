@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Tried to run command without establishing a connection\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SALMAN-PC', ip: '192.168.1.56', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 84.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210105180113, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14848, moz:profile: C:\\Users\\SALMAN\\AppData\\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 97af22d2-f88c-434f-9513-b8467469b225",
+      "children" : [ {
+        "name" : "finishTest",
+        "uid" : "4cfedfa88674bee4",
+        "parentUid" : "4e7d0e93e8ecde901341e1f51b65a53d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610678162948,
+          "stop" : 1610678162948,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e7d0e93e8ecde901341e1f51b65a53d"
+    }, {
+      "name" : "com.google.common.collect.ImmutableSortedSet.toImmutableSortedSet(Ljava/util/Comparator;)Ljava/util/stream/Collector;",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "3db0585ec159340",
+        "parentUid" : "a9d00a76e93a90d543c9645cbfc40745",
+        "status" : "broken",
+        "time" : {
+          "start" : 1611242629358,
+          "stop" : 1611242629359,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9d00a76e93a90d543c9645cbfc40745"
+    }, {
+      "name" : "Unable to locate element: //span[contains(text(),'Test User')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SALMAN-PC', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 85.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210118153634, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 15536, moz:profile: C:\\Users\\SALMAN\\AppData\\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: e1f9bb2e-2771-4ebe-821b-8814e5d9f5c6\n*** Element info: {Using=xpath, value=//span[contains(text(),'Test User')]}",
+      "children" : [ {
+        "name" : "Check if login is successful",
+        "uid" : "c74cd43dd655589",
+        "parentUid" : "135fb72447db95310256e059f7fe179e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1612448661837,
+          "stop" : 1612448680227,
+          "duration" : 18390
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "135fb72447db95310256e059f7fe179e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

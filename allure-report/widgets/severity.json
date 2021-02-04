@@ -1,0 +1,41 @@
+[ {
+  "uid" : "4cfedfa88674bee4",
+  "name" : "finishTest",
+  "time" : {
+    "start" : 1610678162948,
+    "stop" : 1610678162948,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3db0585ec159340",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1611242629358,
+    "stop" : 1611242629359,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24a1434306b767aa",
+  "name" : "Search by item name",
+  "time" : {
+    "start" : 1612448680443,
+    "stop" : 1612448685627,
+    "duration" : 5184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c74cd43dd655589",
+  "name" : "Check if login is successful",
+  "time" : {
+    "start" : 1612448661837,
+    "stop" : 1612448680227,
+    "duration" : 18390
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

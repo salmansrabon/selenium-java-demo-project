@@ -1,0 +1,108 @@
+{
+  "uid" : "b5f35c91567bf164",
+  "name" : "Search by item name",
+  "fullName" : "TestCase.TestCase.searchItem",
+  "historyId" : "861f3b411db5c625947217f3b2809e76",
+  "time" : {
+    "start" : 1611242010746,
+    "stop" : 1611242015930,
+    "duration" : 5184
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1611241991130,
+      "stop" : 1611241995255,
+      "duration" : 4125
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "screenShot",
+    "time" : {
+      "start" : 1611242015932,
+      "stop" : 1611242015932,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "finishTest",
+    "time" : {
+      "start" : 1611242015934,
+      "stop" : 1611242017003,
+      "duration" : 1069
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchItem"
+  }, {
+    "name" : "parentSuite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "suite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "6848@SALMAN-PC.Test worker(12)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5f35c91567bf164.json",
+  "parameterValues" : [ ]
+}

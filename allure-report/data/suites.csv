@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Feb 04 20:24:21 BDT 2021","Thu Feb 04 20:24:40 BDT 2021","18390","E-commerce portal automation","E-commerce portal automation","TestCase.TestCase","TestCase.TestCase","doLogin","Check if login is successful",""
+"broken","Fri Jan 15 08:36:02 BDT 2021","Fri Jan 15 08:36:02 BDT 2021","0","E-commerce portal automation","E-commerce portal automation","TestCase.TestCase","TestCase.TestCase","finishTest","finishTest",""
+"broken","Thu Jan 21 21:23:49 BDT 2021","Thu Jan 21 21:23:49 BDT 2021","1","E-commerce portal automation","E-commerce portal automation","TestCase.TestCase","TestCase.TestCase","setUp","setUp",""
+"passed","Thu Feb 04 20:24:40 BDT 2021","Thu Feb 04 20:24:45 BDT 2021","5184","E-commerce portal automation","E-commerce portal automation","TestCase.TestCase","TestCase.TestCase","searchItem","Search by item name",""

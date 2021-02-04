@@ -1,0 +1,81 @@
+{
+  "5174b36838055e40234a4e7bc87a6df9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c74cd43dd655589",
+      "status" : "broken",
+      "statusDetails" : "Unable to locate element: //span[contains(text(),'Test User')]\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SALMAN-PC', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 85.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210118153634, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 15536, moz:profile: C:\\Users\\SALMAN\\AppData\\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: e1f9bb2e-2771-4ebe-821b-8814e5d9f5c6\n*** Element info: {Using=xpath, value=//span[contains(text(),'Test User')]}",
+      "time" : {
+        "start" : 1612448661837,
+        "stop" : 1612448680227,
+        "duration" : 18390
+      }
+    } ]
+  },
+  "861f3b411db5c625947217f3b2809e76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24a1434306b767aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612448680443,
+        "stop" : 1612448685627,
+        "duration" : 5184
+      }
+    } ]
+  },
+  "9f208966122a9ab1ab532349c30349ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3db0585ec159340",
+      "status" : "broken",
+      "statusDetails" : "com.google.common.collect.ImmutableSortedSet.toImmutableSortedSet(Ljava/util/Comparator;)Ljava/util/stream/Collector;",
+      "time" : {
+        "start" : 1611242629358,
+        "stop" : 1611242629359,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a382d2dee44fe1096d5dff6988d5826c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4cfedfa88674bee4",
+      "status" : "broken",
+      "statusDetails" : "Tried to run command without establishing a connection\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'SALMAN-PC', ip: '192.168.1.56', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 84.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210105180113, moz:geckodriverVersion: 0.28.0, moz:headless: false, moz:processID: 14848, moz:profile: C:\\Users\\SALMAN\\AppData\\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 97af22d2-f88c-434f-9513-b8467469b225",
+      "time" : {
+        "start" : 1610678162948,
+        "stop" : 1610678162948,
+        "duration" : 0
+      }
+    } ]
+  }
+}
