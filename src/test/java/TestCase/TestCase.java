@@ -18,7 +18,7 @@ public class TestCase extends BasePage{
     public void doLogin() throws Exception {
         driver.get("http://automationpractice.com");
         objLogin=new Login(driver);
-        objLogin.doLogin("testuser0568@test.com","P@ssword123");
+        objLogin.doLogin("testuser412@grr.la","2t8zmqzL");
         Utility utility=new Utility(driver);
         utility.takeScreenShot("scrshot.png");
     }
