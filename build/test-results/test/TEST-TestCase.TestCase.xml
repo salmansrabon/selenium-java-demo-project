@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestCase.TestCase" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-25T15:12:57" hostname="SALMAN-PC" time="46.366">
-  <properties/>
-  <testcase name="doLogin" classname="TestCase.TestCase" time="35.962"/>
-  <testcase name="searchItem" classname="TestCase.TestCase" time="10.322"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
